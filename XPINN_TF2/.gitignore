@@ -1,0 +1,5 @@
+# Python virtual environment
+xpinn_env/
+venv/
+env/
+.env/
